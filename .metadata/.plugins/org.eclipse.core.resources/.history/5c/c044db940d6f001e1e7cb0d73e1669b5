@@ -1,0 +1,6 @@
+package com.blog.exceptions;
+
+@Controlller
+public class GlobalExceptionHandler {
+
+}

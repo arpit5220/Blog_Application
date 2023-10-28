@@ -1,0 +1,18 @@
+package com.blog.entities;
+
+@Entity
+@Table(name = "comments")
+@Getter
+@Setter
+public class Comment {
+
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private int id;
+
+	private String content;
+
+	@ManyToOne
+	private Post post;
+
+}
