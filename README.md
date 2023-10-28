@@ -13,8 +13,10 @@
 
 ## Backend Work
 - Created User, Post, Comment API
+- Proper Exception Handling
 - Implemented Pagination
 - Implemented Spring Security
+- Implemented JWT
 
 ## Tech Stack
 - Java
