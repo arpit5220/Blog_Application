@@ -29,6 +29,6 @@
 - Tomcat
 - JWT Authentication
 
-### Work in Progress
+
 
 ![Screenshot (44)](https://github.com/arpit5220/Blog_Application/assets/94009815/58c38f21-f430-4595-97d4-377cb0286e43)
